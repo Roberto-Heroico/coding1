@@ -15,6 +15,7 @@ console.log(2 == "casa")
 console.log("House" == "casa")
 console.log("House" == "House")
 console.log(10 == 10)
+ 
 
 
 
